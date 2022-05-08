@@ -100,3 +100,6 @@ see [this article](https://medium.com/@ashleydavis75/node-js-memory-limitations-
 
 Keep in mind that this project only uses node to build the angular application.
 There is no production dependency on node.
+
+### https://update.angular.io/?v=11.0-13.0
+### 11.0.1 -> 13.0
